@@ -26,9 +26,6 @@ Click the "Get Joke" button to fetch and display a random dad joke.
 <b> API Used: </b>
 icanhazdadjoke API
 
-<b>License: </b>
-This project is licensed under the MIT License.
-
 <b>Acknowledgements: </b>
 Thanks to icanhazdadjoke for providing the dad jokes.
 Author : Vishakha Singhal
